@@ -1,63 +1,42 @@
 # Grading and Final Evaluation
 
-## Evaluation Schedule
+The evaluation process to assess the progress of Fab Academy students work during the cycle is comprised by 2 layers:
+. Local evaluation
+. Global evaluation
 
-Local Instructors should be evaluating student work periodically throughout the course. A bi-weekly review is good, a weekly review with the student is ideal.
+## Local Evaluation 
+Local Instructors should be evaluating students work periodically throughout the course. A bi-weekly review is good, a weekly review with the student is ideal.
 
-Instructors must review each student’s work according to the documentation provided by the student, NOT what was observed in the lab. Instructors should discuss incomplete work / documentation with a student on an ongoing basis. There should be no surprises at the end of the course.
-
-In order to complete the program students need to satisfactorily complete *all *assignments and their final project.
-
-**_Please keep in mind that these diagrams were designed last year and as so, the dates on them may not be current in some cases, yet the flow and logic remains. We will update them as soon as possible but please ignore the actual dates. _**
-
-### Complete Evaluation Life Cycle: Diagram
-
-![image alt text](img/image_0.jpg)
-
-### Local Weekly Evaluation Cycle: Diagram
-
-![image alt text](img/image_1.jpg)
-
-## Local Final Evaluation Cycle: Diagram
-
-![image alt text](img/image_2.jpg)
-
-## Global Final Evaluation Cycle: Diagram
-
-![image alt text](img/image_3.jpg)
-
-## Global Evaluation Committee
-
-Members of the global evaluation committee will each spend additional 10-20 hours making the final decision on graduation.   
-
-> ### Apply for Global Eval - Help Us Out!
-
-> Have you been an instructor in the Academy for two or more years? Will you have completed one grading cycle as an instructor by the end of the current cycle?
-
-> If so - we need you! Academy enrollment grows exponentially every year. Many hands make light work.
-
-> If you'd like to apply, email [globaleval at fabacademy.org](mailto:globaleval@fabacademy.org) with the subject heading `Eval Committee Application` and note labs and years as an instructor.
+Instructors must review each student’s work according to the documentation provided by the student, NOT what was observed in the lab. Instructors should discuss incomplete work / documentation with a student on an ongoing basis. 
 
 
+## Global Evaluation
 
-## How to Contact the Committee for Re-Evaluation
+Simultaneously, Global Evaluators are assigned later in the cycle to double check the application to the [Assessment standards](http://docs.academany.org/FabAcademy-Assessment/_book/) and provide a general overview of the process.
 
-There are a few of you (or your students) that were missed or slipped through the cracks during the last round.
+Instructors are responsible for the evaluation of students while Global Evaluators keep an eye on the general progress, and step in in specific cases that require so. 
 
-*Any instructor who has a student that needs to be re-evaluated from a previous year should:*
 
-1. Review the student’s work themselves first
+## Fab Academy Evaluation Criteria
 
-2. If the student is complete, contact the Fab Academy Coordination who will inform about the deadlines, fees and procedure.
+In order to complete the program and receive the Fab Academy Diploma students need to satisfactorily complete ALL assignments and their final project, in accordance with the [Assessment standards](http://docs.academany.org/FabAcademy-Assessment/_book/).
 
-3. Then the committee will review and determine final graduation status
+Continuing students will be assessed by the current standards of the course.
 
-## Why Re-Evaluation Backlogs Happen
+Graduated students have free access to the Fab Conference in the cycle they Graduate in.
 
-The Evaluation Committee members are **dedicating large amounts of their time** to review student work - after teaching the Academy all semester. Please keep this in mind.
+## Evaluation tools
 
-# Fab Academy Evaluation Criteria
+The evaluation process is documented in the Evaluation App: http://nueval.fabacademy.org/
+There, Students, Instructors and Global Evaluators have a profile and are able to log in to comment and review comments regarding the evaluation process.
 
-Evaluation criteria below. Minor changes to future assignments will be made to this document during Fab Academy, so please check this document each week.
+The App is the tool for what is called “continuous evaluation” in which there is a constant stream of assignments being evaluated and passed, by both Instructors and Global evaluators, to have a continuously updated picture of student’s status during the cycle. In addition, students receive continuous reviews that allow informed decisions along the cycle.
 
-<http://docs.academany.org/FabAcademy-Assessment/_book/>
+
+## Evaluation dates
+
+July Evaluation Cycle > coming soon
+
+November Evaluation cycle > to be confirmed.
+
+If you have any doubst about the process please contact [Coordination Team](mailto:coordination@fabacademy.org)
